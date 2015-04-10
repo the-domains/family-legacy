@@ -1,0 +1,24 @@
+name: null
+style: A1
+favicon: null
+layout: 0.5
+typography: 0.5
+purposes:
+  - awareness
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
