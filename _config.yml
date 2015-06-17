@@ -1,6 +1,8 @@
-name: null
-style: taylor
+name: Family Legacy
 favicon: null
+layout_spectrum: 0.8
+typography_spectrum: 0.5
+style: taylor
 layout: 0.5
 typography: 0.5
 purposes:
@@ -22,3 +24,4 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+purpose: []
