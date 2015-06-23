@@ -1,12 +1,7 @@
-name: Family Legacy
+name: null
 favicon: null
-layout_spectrum: 0.73684
-typography_spectrum: 0.51754
-style: taylor
-layout: 0.5
-typography: 0.5
-purposes:
-  - awareness
+layout_spectrum: 0.8
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
