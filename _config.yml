@@ -30,13 +30,13 @@ collections:
       navigable: true
 purpose: []
 color:
-  saturation: 0.8118279
+  saturation: 0.8799282
   brandStrength: 0
-  lightness: 0.7019116
+  lightness: 0.495221
   brandColors: []
-  rhythmicContrast: 1
-typography_spectrum: 0.04958184
-layout_spectrum: 1
+  rhythmicContrast: 0.6338112
+typography_spectrum: 1
+layout_spectrum: 0.8870967
 analytics:
   twitter: null
   google: null
