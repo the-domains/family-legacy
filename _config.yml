@@ -32,16 +32,16 @@ purpose: []
 color:
   saturation: 0.8799282
   brandStrength: 0
-  lightness: 0.495221
+  lightness: 0.5035842
   brandColors: []
-  rhythmicContrast: 0.6338112
+  rhythmicContrast: 1
 typography_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
 layout_spectrum: 0.8870967
 analytics:
   twitter: null
   google: null
   facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
