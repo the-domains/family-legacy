@@ -1,7 +1,7 @@
 name: Family Legacy
 favicon: null
 layout_spectrum: 0.8870967
-typography_spectrum: 1
+typography_spectrum: 0.78272
 collections:
   - filter:
       notType:
