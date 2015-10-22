@@ -1,7 +1,9 @@
-name: Family Legacy
 favicon: null
-layout_spectrum: 0.8870967
-typography_spectrum: 0.78272
+name: Family Legacy
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - filter:
       notType:
@@ -26,27 +28,25 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
+  saturation: 0.8799282
+  brandStrength: 0
+  rhythmicContrast: 1
   brandColors:
     - '#dfddd1'
     - '#030303'
     - '#505149'
     - '#818877'
     - '#c4263a'
-  brandStrength: 0
   lightness: 0.5035842
-  saturation: 0.8799282
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.78272
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
