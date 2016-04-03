@@ -1,4 +1,8 @@
-layout_spectrum: 1
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -31,22 +35,18 @@ purpose: []
 color:
   saturation: 0.8799282
   brandStrength: 0
-  lightness: 0.4271207
+  rhythmicContrast: 1
   brandColors:
     - '#dfddd1'
     - '#030303'
     - '#505149'
     - '#818877'
     - '#c4263a'
-  rhythmicContrast: 1
+  lightness: 0.4271207
 typography_spectrum: 0.78272
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.8321385
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Family Legacy
