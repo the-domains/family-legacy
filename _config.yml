@@ -44,6 +44,7 @@ color:
     - '#c4263a'
   lightness: 0.4271207
 typography_spectrum: 0.78272
+style: the-composer
 layout_spectrum: 0.8321385
 analytics:
   twitter: null
